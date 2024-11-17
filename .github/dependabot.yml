@@ -1,8 +1,8 @@
 version: 2
 updates:
-  - package-ecosystem: 'npm'
-    directory: '/'
+  - package-ecosystem: "npm"
+    directory: "/"
     schedule:
-      interval: 'daily'
-      time: '10:08'
-      timezone: 'Etc/UTC'
+      interval: "daily"
+      time: "10:08"
+      timezone: "Etc/UTC"
